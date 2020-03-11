@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://pageforwork.ru/sitemap.xml
+Host: pageforwork.ru
